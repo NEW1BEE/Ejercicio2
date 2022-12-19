@@ -1,4 +1,3 @@
-    #Ejercicio2
     <!DOCTYPE html>
     <html>
         <head>
@@ -18,7 +17,7 @@
             <br>
             <div>
             <label for="frase-favorita">Cuál es su frase favorito</label>
-            <textarea name="frase-favorit" id="frase-favorit"></textarea>
+            <textarea name="frase-favorita" id="frase-favorita"></textarea>
             </div>
             <br>
             <div></div>
